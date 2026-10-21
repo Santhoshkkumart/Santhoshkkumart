@@ -14,6 +14,24 @@
 
 </div>
 
+## GitHub Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Santhoshkkumart&include_all_commits=true&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true" />
+    <img height="165" alt="GitHub commits and activity statistics" src="https://github-readme-stats.vercel.app/api?username=Santhoshkkumart&include_all_commits=true&show_icons=true&hide_rank=true&theme=default&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshkkumart&layout=compact&theme=github_dark&hide_border=true" />
+    <img height="165" alt="Most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhoshkkumart&layout=compact&theme=default&hide_border=true" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Santhoshkkumart&theme=dark&hide_border=true" />
+    <img height="165" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=Santhoshkkumart&theme=default&hide_border=true" />
+  </picture>
+</div>
+
 ## About
 
 I build web apps, APIs, and AI tools. My main languages are Python and JavaScript, and I use Node.js, Express, PostgreSQL, React, and Docker.
