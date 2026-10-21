@@ -1,10 +1,12 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1300&color=2F81F7&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Santhoshkkumar;Developer;Python+%26+JavaScript;Building+things+and+learning+by+doing" alt="Hi, I'm Santhoshkkumar — developer, Python and JavaScript" />
-</a>
+  <h1>Hi, I'm Santhoshkkumar 👋</h1>
+  <p><strong>Developer</strong> &nbsp;·&nbsp; Python &amp; JavaScript</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1600&color=2F81F7&center=true&vCenter=true&width=560&height=32&lines=Building+web+apps+and+APIs;Exploring+AI+tools;Learning+by+building" alt="Building web apps and APIs, exploring AI tools, learning by building" />
+  </a>
 
-<br/>
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
