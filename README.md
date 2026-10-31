@@ -29,8 +29,8 @@
   </picture>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Santhoshkkumart&theme=dark&hide_border=true" />
-    <img height="165" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=Santhoshkkumart&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Santhoshkkumart&theme=dark&hide_border=true&mode=weekly" />
+    <img height="165" alt="GitHub weekly contribution streak" src="https://streak-stats.demolab.com/?user=Santhoshkkumart&theme=default&hide_border=true&mode=weekly" />
   </picture>
 </div>
 
